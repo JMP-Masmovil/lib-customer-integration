@@ -1,8 +1,10 @@
 package es.masmovil.lib.customer;
 
 import lombok.Data;
+import lombok.EqualsAndHashCode;
 
 @Data
+@EqualsAndHashCode
 public class CustomerRSDTO {
 
 	private String identifier;

@@ -1,2 +1,2 @@
 # lib-customer-integration
-Library for customer microservice integration
+Libreria para la integracion del servicio customer-phone-app en otros servicios
